@@ -1,0 +1,20 @@
+{
+  "name": "rose-blue-gray-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A dark (rose blue gray) syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "gray",
+    "dark",
+    "blue",
+    "rose"
+  ],
+  "author": "Mika Välimäki",
+  "repository": "https://github.com/mik-A/atom-rose-blue-grey-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
